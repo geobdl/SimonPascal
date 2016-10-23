@@ -20,7 +20,7 @@ Research has to be done on how this implementation might fail and make it work, 
 
 How can the spreading of pirated movies be modelled using contagion models?
 Is it possible to correlate single parameters as budget or normalized box office (normalized by the budget) towards either the amount or the velocity of the spread of a pirated version?
-How does the delay of the HiRes-Media (DVD/Bluray) affec the spreading of the illegal copy?
+How does the delay of the HiRes-Media (DVD/Bluray) affect the spreading of the illegal copy?
 What is the influence of accesibility of the illegal files? (this can temporarily drop, e.g. when some of 
 the more prominent torrent sites get pulled)
 
