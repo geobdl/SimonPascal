@@ -1,6 +1,6 @@
 # MATLAB Fall 2016 – Research Plan 
 
-> * Group Name: 
+> * Group Name: To err is human, to arr is pirate.
 > * Group participants names: Simon Ghysbrecht & Pascal Zehnder
 > * Project Title: A Contagion Based Model for the Spreading of Pirated Movies over the Internet.
 
