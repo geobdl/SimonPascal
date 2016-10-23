@@ -1,4 +1,4 @@
-# MATLAB Fall 2014 – Research Plan 
+# MATLAB Fall 2016 – Research Plan 
 
 > * Group Name: 
 > * Group participants names: Simon Ghysbrecht & Pascal Zehnder
@@ -31,11 +31,25 @@ On one hand we expect the model to behave similar to a contagion model, in the c
 Also there might be big influence on the amount of visitors in theaters if a good version of the movie leaks early.
 
 ## References 
-Novos, Ian, and Michael Waldman. "Piracy of intellectual property: past, present, and future." Review of Economic Research on Copyright Issues 10.2 (2013): 1-26.
-Miyazaki, Anthony D., Alexandra Aguirre Rodriguez, and Jeff Langenderfer. "Price, scarcity, and consumer willingness to purchase pirated media products." Journal of Public Policy & Marketing 28.1 (2009): 71-84.
-Smith, Michael D., and Rahul Telang. "Competing with free: the impact of movie broadcasts on DVD sales and internet piracy 1." mis Quarterly 33.2 (2009): 321-338.
-Schechter, Stuart E., Rachel A. Greenstadt, and Michael D. Smith. "Trusted computing, peer-to-peer distribution, and the economics of pirated entertainment." Proceedings of The Second Annual Workshop on Economics and Information Security. 2003.
-Watts, Duncan J. "A simple model of global cascades on random networks." Proceedings of the National Academy of Sciences 99.9 (2002): 5766-5771.
+Novos, Ian, and Michael Waldman. 
+"Piracy of intellectual property: past, present, and future." 
+Review of Economic Research on Copyright Issues 10.2 (2013): 1-26.
+
+Miyazaki, Anthony D., Alexandra Aguirre Rodriguez, and Jeff Langenderfer. 
+"Price, scarcity, and consumer willingness to purchase pirated media products." 
+Journal of Public Policy & Marketing 28.1 (2009): 71-84.
+
+Smith, Michael D., and Rahul Telang. 
+"Competing with free: the impact of movie broadcasts on DVD sales and internet piracy 1." 
+mis Quarterly 33.2 (2009): 321-338.
+
+Schechter, Stuart E., Rachel A. Greenstadt, and Michael D. Smith. 
+"Trusted computing, peer-to-peer distribution, and the economics of pirated entertainment." 
+Proceedings of The Second Annual Workshop on Economics and Information Security. 2003.
+
+Watts, Duncan J. 
+"A simple model of global cascades on random networks." 
+Proceedings of the National Academy of Sciences 99.9 (2002): 5766-5771.
 
 ## Research Methods
 
